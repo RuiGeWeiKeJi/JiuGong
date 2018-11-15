@@ -1,0 +1,7 @@
+D:\Project data\JiuGong\JiuGongBll\bin\Debug\JiuGongBll.dll
+D:\Project data\JiuGong\JiuGongBll\bin\Debug\JiuGongBll.pdb
+D:\Project data\JiuGong\JiuGongBll\obj\Debug\JiuGongBll.csprojResolveAssemblyReference.cache
+D:\Project data\JiuGong\JiuGongBll\obj\Debug\JiuGongBll.dll
+D:\Project data\JiuGong\JiuGongBll\obj\Debug\JiuGongBll.pdb
+D:\Project data\JiuGong\JiuGongBll\bin\Debug\JiuGongEntity.dll
+D:\Project data\JiuGong\JiuGongBll\bin\Debug\JiuGongEntity.pdb
